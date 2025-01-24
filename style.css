@@ -817,13 +817,12 @@ img:hover{
     position: relative;
     display: inline-block;
     float: right;
-    margin-top: -1.5%;
+    margin-top: 0%;
     margin-right: 2.5%;
-    width:auto;
-    height: 85vh;
+    width:45%;
+    height: auto;
     z-index: 1;
-    mix-blend-mode: multiply;
-   
+    mix-blend-mode: multiply; 
 }
 
 .ui_h2_holder{
@@ -1545,7 +1544,23 @@ img:hover{
 p {
         font-size: 2.25vw;
         line-height: 3vw;
-    }    
+    }  
+    
+    
+    
+.ui_head_pic{
+    position: relative;
+    display: inline-block;
+    float: right;
+    margin-top: 5%;
+    margin-right: 2.5%;
+    width:90%;
+    height: auto;
+    z-index: 1;
+    mix-blend-mode: multiply; 
+}
+    
+    
     
 .ui_h2_holder{
     position: relative;
@@ -1556,9 +1571,13 @@ p {
     margin-top: 0% !important;
 } 
     
+    
+
+   
+    
+    
 .arrow_down{
-  margin-top: 70vh;
-  position: absolute;
+  display: none;
 
 }
     
