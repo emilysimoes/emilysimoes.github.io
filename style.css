@@ -817,7 +817,7 @@ img:hover{
     position: relative;
     display: inline-block;
     float: right;
-    margin-top: 0%;
+    margin-top: 0vh;
     margin-right: 2.5%;
     width:45%;
     height: auto;
@@ -828,7 +828,7 @@ img:hover{
 .ui_h2_holder{
     position: absolute;
     float: left;
-    width: 35%;
+    width: 40%;
     margin-left: 10%;
     margin-top: 25vh;
 }
@@ -1552,7 +1552,7 @@ p {
     position: relative;
     display: inline-block;
     float: right;
-    margin-top: 5%;
+    margin-top: 0%;
     margin-right: 2.5%;
     width:90%;
     height: auto;
