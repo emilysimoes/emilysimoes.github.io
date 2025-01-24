@@ -821,6 +821,8 @@ img:hover{
     margin-right: 2.5%;
     width:auto;
     height: 85vh;
+    z-index: 1;
+    mix-blend-mode: multiply;
    
 }
 
