@@ -1580,7 +1580,7 @@ p {
     .how_pic{
         margin-left: 10%;
         margin-top: 3%;
-        width: 36%;
+        width: 80%;
         margin-bottom: 4%
     }    
  
@@ -1596,14 +1596,15 @@ p {
  
  
     
-#verde_web_pic_holder{
-    display: inline;
+.verde_web_pic_holder{
     position: relative;
+    display: inline;
     float: left;
-    margin-left: 0%;
+    padding-left: 0% ;
+    margin-left: 10%;
     margin-top: 10px;
     margin-right: 2%;
-    width:40.5vw;
+    width: 80%;
 }
         
     
