@@ -506,7 +506,7 @@ padding-bottom: 32px;
 
 #mySidenav.open {
   width: 30%;
-  padding-right: 5%;    
+  padding-right: 4%;    
 }
 
 
@@ -1532,7 +1532,7 @@ img:hover{
 
 
     .worknav{
-        margin-top: 10vh;
+        margin-top: 4vh;
     }    
     
     
