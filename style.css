@@ -506,6 +506,7 @@ padding-bottom: 32px;
 
 #mySidenav.open {
   width: 30%;
+  padding-right: 5%;    
 }
 
 
@@ -1531,14 +1532,31 @@ img:hover{
 
 
     .worknav{
-        margin-top: 15vh;
+        margin-top: 10vh;
     }    
+    
+    
+    
+#mySidenav.open {
+  width: 42%;
+}
+
+    
+    
     
 #main{
      width: 80%;
      margin-top: 20vh;
-     margin-right: 0% ;  
+     margin-right: 0%;
     }   
+   
+
+#main h1{
+    font-size: 28px;
+    line-height: 40px;
+}
+    
+    
     
 #main_h2_holder {
     margin-top: 0%;
