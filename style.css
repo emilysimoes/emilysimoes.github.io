@@ -586,6 +586,7 @@ img:hover{
 
 
 .img-fluid{
+   
     border-radius: 0px;
   cursor: pointer;
   transition: 0.3s;
